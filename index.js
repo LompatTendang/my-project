@@ -12,5 +12,5 @@ return;
 }
 
 console.log(`stdout: ${stdout}`)
-});
 console.log('END OF OPERATION...');
+});
